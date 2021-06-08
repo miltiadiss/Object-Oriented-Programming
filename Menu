@@ -107,7 +107,7 @@ public class Menu {
         
   adminViewMenu(a);
  }
-  public void adminMonitorMenu(Admin a)
+ public void adminMonitorMenu(Admin a)
  {   
   System.out.println("Monitor Organization:\n\t1-List Beneficiaries\n\t2-List Donators\n\t3-Reset Beneficiaries Lists\n\t4-Back\n");
   int selection = getMenuOption(4);
